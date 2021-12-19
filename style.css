@@ -1,0 +1,15 @@
+.work{
+    border: 5px solid purple;
+    height: 200px;
+    width: 500px;
+    margin: 10px;
+    padding: 2%;
+    display: inline-block;
+}
+h1{
+    text-align: center;
+
+}
+p{
+    text-align:justify ;
+}
