@@ -13,3 +13,10 @@ h1{
 p{
     text-align:justify ;
 }
+.for{
+    weight:500px ;
+    height: 400px;
+}
+.fors{
+    display: flex;
+}
